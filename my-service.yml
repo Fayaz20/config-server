@@ -1,0 +1,3 @@
+my-service:
+  welcome-message: Welcome to My Service!
+  port: 8081
