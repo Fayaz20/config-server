@@ -1,0 +1,3 @@
+another-service:
+  environment: Development
+  db-url: jdbc:h2:mem:devdb
